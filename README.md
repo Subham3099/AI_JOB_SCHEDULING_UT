@@ -9,7 +9,7 @@ Algorithm Selection: Researched and evaluated different AI algorithms suitable f
 
 Data Preprocessing: Developed robust data preprocessing pipelines to handle uncertain processing time data, ensuring compatibility with the chosen AI algorithms.
 
-Algorithm Implementation: Implemented state-of-the-art AI algorithms, such as Genetic Algorithms, Particle Swarm Optimization, and Reinforcement Learning, to tackle the job scheduling problem. These algorithms were customized to handle uncertainties effectively.
+Algorithm Implementation: Implemented state-of-the-art AI algorithms, such as Simulated Annealing, to tackle the job scheduling problem. These algorithms were customized to handle uncertainties effectively.
 
 Model Training and Optimization: Designed training strategies and optimization techniques to fine-tune the AI models for improved scheduling accuracy and reduced makespan.
 
