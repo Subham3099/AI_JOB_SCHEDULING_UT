@@ -1,9 +1,9 @@
 # Project Title: Artificial Intelligence-Based Job Scheduling for Uncertain Processing Times on Heterogeneous Machines
 
-Project Description:
+#Project Description:
 As part of my academic pursuits, I undertook a comprehensive project focused on leveraging Artificial Intelligence techniques to solve the complex problem of job scheduling in a dynamic environment where processing times were uncertain and machines were heterogeneous. The project was implemented using Python and incorporated various AI algorithms to optimize job scheduling and enhance operational efficiency.
 
-<Key Achievements:>
+#Key Achievements:
 
 Algorithm Selection: Researched and evaluated different AI algorithms suitable for addressing job scheduling challenges in scenarios with uncertain processing times. Selected appropriate algorithms based on their performance characteristics.
 
